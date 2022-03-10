@@ -8,10 +8,15 @@ This assginement include following five functions to analyze or revise this samp
   6)  implement a UserInteraction() function, which produces a menu of user options as below:
 MENU
 c - Number of non-whitespace characters
+
 w - Number of words
+
 f - Find text
+
 r - Replace all !'s
+
 s - Shorten spaces
+
 q - Quit
 
 Choose an option:
