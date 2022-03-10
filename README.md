@@ -6,7 +6,9 @@ This assginement include following five functions to analyze or revise this samp
   4) Implement the ShortenSpace() function. ShortenSpace() has a string parameter and updates the string by replacing all sequences of 2 or more spaces with a single space. ShortenSpace() DOES NOT return the revised string. It returns void instead. Same as the above function, the parameter is the in/out type.
   5)  Implement the GetNumOfWords() function. GetNumOfWords() has one in-parameter that should be declared as constant and passed in by reference.
   6)  implement a UserInteraction() function, which produces a menu of user options as below:
+  
 MENU
+
 c - Number of non-whitespace characters
 
 w - Number of words
